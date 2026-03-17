@@ -10,4 +10,4 @@ and cybersecurity over 4 weeks.
 - Git & GitHub
 - Linux fundamentals
 - Bash scripting
-- Networking basics (TCP/IP, DNS, DHCP
+- Networking basics (TCP/IP, DNS, DHCP)
