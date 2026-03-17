@@ -1,0 +1,13 @@
+# Linux Notes - Day 1
+- pwd: shows current location
+- ls: lists files
+- mkdir: creates folder
+- touch: creates file
+- echo: writes to file
+- cat: reads file
+- cp: copies file
+- mv: moves or renames file
+- rm: deletes file
+- chmod: changes permissions
+- whoami: shows username
+- uname -a: shows system info
